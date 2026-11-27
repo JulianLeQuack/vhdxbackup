@@ -1,4 +1,4 @@
-# VhdxBackup 0.5.0
+# VhdxBackup 0.5.0 (Certified AI Slop)
 
 Image-Backup der Windows-11-Systemplatte als VHDX-Kette, gebaut nach dem Konzept v0.5.
 C++17, nur Windows-APIs (VSS, VirtDisk, CNG, WMI, ODBC), keine Fremdbibliotheken, keine Treiber.
